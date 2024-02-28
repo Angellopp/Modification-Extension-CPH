@@ -1,4 +1,9 @@
-# Competitive Programming Helper (cph)
+# Customizacion of Competitive Programming Helper (cph)
+
+## New feature added
+-   Organization of the problems in folders with the name of the source contest 
+
+![Screenshot](screenshots/screenshot-new-feature.png)
 
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fagrawal-d%2Fcph%2Fbadge%3Fref%3Dmain&style=flat)](https://actions-badge.atrox.dev/agrawal-d/cph/goto?ref=main)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/DivyanshuAgrawal.competitive-programming-helper)](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper)
