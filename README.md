@@ -37,8 +37,6 @@ You can also use this extension locally, just open any supported file and press
 'Run Testcases' (or <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd>) to manually
 enter testcases.
 
-[![See detailed user guide](https://img.shields.io/badge/-Read%20detailed%20usage%20guide-blue?style=for-the-badge)](docs/user-guide.md)
-
 ## Features
 
 -   Automatic compilation with display for compilation errors.
@@ -60,20 +58,3 @@ enter testcases.
 -   Python
 -   Java
 -   JavaScript (Node.js)
-
-## Contributing
-
-You can contribute to this extension in many ways:
-
--   File bug reports by creating issues.
--   Develop this extension further - see [developer guide](docs/dev-guide.md).
--   Spreading the word about this extension.
-
-**Before creating a Pull Request, please create an issue to discuss the
-approach. It makes reviewing and accepting the PR much easier.**
-
-## Telemetry
-
-The extension collects basic events defined in `src/telmetry.ts`. To disable,
-modify the setting `telemetry.telemetryLevel` (applies to all VSCode
-extensions).
